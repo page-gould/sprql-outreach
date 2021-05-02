@@ -1,0 +1,17 @@
+{
+      "nodes": [
+        {"id": "Me"},
+        {"id": "Friend 1"},
+        {"id": "Friend 2"},
+        {"id": "Friend 3"},
+        {"id": "Friend 4"},
+        {"id": "Friend 5"}
+      ],
+      "edges": [
+        {"from": "Me", "to": "Friend 1"},
+        {"from": "Me", "to": "Friend 2"},
+        {"from": "Me", "to": "Friend 3"},
+        {"from": "Me", "to": "Friend 4"},
+        {"from": "Me", "to": "Friend 5"}
+      ]
+}
